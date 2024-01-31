@@ -1,6 +1,7 @@
 # What is linux?
 - It is a Kernel.
 - These are headles systems. 
+- A **headless system** is a computer that operates without a monitor, graphical user interface (GUI) or peripheral devices, such as keyboard and mouse. 
 # Linux Operating System:
 - A computer program that organizes a number of other programs at the same time.
 - It is a software that manages all of the hardware resources associated with your desktop or laptop.
