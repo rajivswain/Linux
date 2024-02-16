@@ -35,7 +35,7 @@ There are many desktop environments to choose from (GNOME,KDE, etc.). Each deskt
 
 ![Alt text](image-2.png)
 
-### Linux systrem call:
+### Linux system call:
 - A system call is a programmatic way a program requests a services from the kernal.
 - System calls are divided into 5 categories:
 1. Process Control
